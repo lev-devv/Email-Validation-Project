@@ -25,4 +25,4 @@ This project validates email addresses using the EmailValidation.io API.
 
 A web browser (Chrome, Firefox, Edge, etc.)
 
-An API key from [EmailValidation.io](https://www.emailvalidation.io/)
+An API key 
